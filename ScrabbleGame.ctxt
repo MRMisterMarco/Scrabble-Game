@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ScrabbleGame
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ScrabbleGame\ here.\r\n\ \r\n\ @author\ Rachel\ Weber\r\n\ @version\ November\ 20,\ 2014\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=tiles
+comment2.target=void\ fillBag(java.util.ArrayList)
+comment3.params=tileBag
+comment3.target=java.util.ArrayList\ makeRack(java.util.ArrayList)
+comment4.params=low\ high
+comment4.target=int\ randomInt(int,\ int)
+comment5.params=tiles
+comment5.target=void\ printAllTiles(java.util.ArrayList)
+comment6.params=word\ rack
+comment6.target=boolean\ validWord(java.lang.String,\ java.util.ArrayList)
+comment7.params=word\ rack
+comment7.target=int\ scoreWord(java.lang.String,\ java.util.ArrayList)
+comment8.params=letter\ rack
+comment8.target=int\ scoreOfLetter(char,\ java.util.ArrayList)
+numComments=9
